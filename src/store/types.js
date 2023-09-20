@@ -1,0 +1,4 @@
+export const INCREMENT_PENDING = 'INCREMENT_P';
+export const INCREMENT_SUCCESS = 'INCREMENT_S';
+export const INCREMENT_ERROR = 'INCREMENT_E';
+export const DECREMENT = 'DECREMENT';
